@@ -8,3 +8,6 @@ return d;
 
 int e = a * b;
 return e;
+
+int f = a / b;
+return f;
