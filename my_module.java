@@ -7,4 +7,4 @@ int d = a - b;
 return d;
 
 int e = a * b;
-return e;
+return e;	// 주석 처리
