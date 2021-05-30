@@ -9,3 +9,6 @@ return d;
 int e = a * b;
 return e;	// 주석 처리
 
+int f = a / b;
+retunr f;
+
