@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+C:\Users\leech\OneDrive\πŸ≈¡ »≠∏È\Git_Practice\ex\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3702745130.index
-2289322339.index
-1800707968.index
-3562943225.index
-4219277675.index
